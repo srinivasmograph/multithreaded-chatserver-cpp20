@@ -1,0 +1,91 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+
+# Visual Studio files
+.vsidx
+
+FileContentIndex/
+# CMake build output
+/out/
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+Makefile
+cmake_install.cmake
+compile_commands.json
+
+# VS Code specific
+.vs
+.vscode/
+*.code-workspace
+
+multithreaded-chatserver/include/
+multithreaded-chatserver/out/
+multithreaded-chatserver/vs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Generated binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+*.log
+
+# Ignore Visual Studio IntelliSense database and cache files
+*.ipch
+*.sdf
+*.VC.db
+*.db
+*.user
+*.suo
+*.ncb
+*.opensdf
+*.log
+
+# Ignore build and temp directories
+/build/
+/out/
+/Debug/
+/Release/
