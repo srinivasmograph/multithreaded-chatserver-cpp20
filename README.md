@@ -7,12 +7,6 @@ A **multithreaded chat server** that can:
 * Support chat rooms
 * Broadcast messages using a message queue
 
-This is a Systems-level project using modern C++ to demonstrate:
-
-* Memory-safe programming
-* Multithreading
-* OS-level networking (sockets)
-
 ### Tools & Technologies:
 
 * **C++20** – Modern language features.
